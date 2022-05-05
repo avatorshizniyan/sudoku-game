@@ -18,3 +18,4 @@ C:\Users\ASUS-GL552VW\source\repos\بازی سازی\sudoku\sudoku\obj\Debug\sud
 C:\Users\ASUS-GL552VW\source\repos\بازی سازی\sudoku\sudoku\obj\Debug\sudoku.csproj.CoreCompileInputs.cache
 C:\Users\ASUS-GL552VW\source\repos\بازی سازی\sudoku\sudoku\obj\Debug\sudoku.exe
 C:\Users\ASUS-GL552VW\source\repos\بازی سازی\sudoku\sudoku\obj\Debug\sudoku.pdb
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\sudoku\sudoku\bin\Debug\Control.Draggable.dll
